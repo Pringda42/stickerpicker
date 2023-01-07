@@ -1,6 +1,7 @@
 {
   "packs": [
-    "classiccaptainamerica.json"
+    "classiccaptainamerica.json",
+    "whoniverse.json"
   ],
   "homeserver_url": "https://matrix.mido42.de"
 }
